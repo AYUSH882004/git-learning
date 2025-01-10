@@ -19,3 +19,9 @@ console.log(faltu);//now i want to delete these commit  (git reset --hard code)
  console.log("i am pro");
  
  //now i want to remove 4th commit
+
+ let name1="ayush";
+ function Change_name(name1){
+    name1+=" sahu";
+ }
+Change_name("aryan");
