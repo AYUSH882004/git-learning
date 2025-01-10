@@ -38,3 +38,6 @@ console.log(xyz+123);
 console.log("hello");
 
 console.log("lastert update")
+
+//git branch -D payment (to delete branch)
+console.log("bug fixed branch");
