@@ -19,3 +19,20 @@ console.log(faltu);//now i want to delete these commit  (git reset --hard code)
  console.log("i am pro");
  
  //now i want to remove 4th commit
+
+
+//switch to neew branch  git checkout -B "feature"
+//git branch
+//merge feature into master : git merge feature
+
+const name1="ayush"
+function change_name(){
+    name1="rohan";
+}
+change_name();
+
+const xyz=123;
+console.log(xyz+123);
+
+
+console.log("hello");
